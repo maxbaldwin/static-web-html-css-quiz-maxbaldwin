@@ -1,0 +1,42 @@
+.one, 
+.two, 
+.three, 
+.four {
+    width: 30%;
+    border: 1px solid lightblue;
+    margin: 10px;
+    display: inline-table;
+}
+
+img.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 250px;
+  min-height: 250px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.headings {
+  border-bottom: 1px dotted lightgray;
+}
+
+.description {
+  text-align: justify;
+}
+
+h2, h4, ul {
+  font-weight: bold;
+}
+
+.available {
+  color: yellow;
+  background-color: grey;
+}
+
+footer {
+  font-size: 12px;
+}
