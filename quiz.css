@@ -1,11 +1,12 @@
-.one, 
-.two, 
-.three, 
-.four {
+.card {
     width: 30%;
     border: 1px solid lightblue;
     margin: 10px;
     display: inline-table;
+}
+
+body {
+  padding: 5%;
 }
 
 img.center {
@@ -40,3 +41,5 @@ h2, h4, ul {
 footer {
   font-size: 12px;
 }
+
+/*something*/
